@@ -1,7 +1,6 @@
 # HTML-CSS
 
 <p align="center">
-    <img width="20%" src="https://i.imgur.com/EfBl8Hs.png"><br/><br/>
     Part of Bellshade Project, managed by <a href="http://discord.gg/S4rrXQU"> WPU Discord Community</a> <br/>
     WPU Community is the fastest growing software developer forum initiated by <a href="https://www.youtube.com/c/WebProgrammingUNPAS"> Mr. Sandhika Galih</a> <br/><br/>
     <a href="http://discord.gg/S4rrXQU"><img src="https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge"></a>
